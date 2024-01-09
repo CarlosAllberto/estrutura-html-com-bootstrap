@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body { background-color: #1b1d20; }
+
+.logo { color: #9ce700; }
+
+nav { min-height: 100px; }
